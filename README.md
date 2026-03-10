@@ -48,7 +48,7 @@ src/
 ```bash 
 git clone https://github.com/calvarengapb/aplicacao-de-tarefas.git
 ```
-2. Instale as dependências:
+2. Acesse o diretório criado:
 ```bash 
 cd aplicacao-de-tarefas
 ```
